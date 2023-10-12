@@ -1,7 +1,12 @@
-* {
-    font-family: 'Roboto', sans-serif;
+main>.container {
+    padding: 60px 15px 0;
 }
 
-.text-blue {
-    color: #007bff;
+.btn-primary {
+    background-color: blueviolet;
+}
+
+
+* {
+    font-family: 'Courier New', Courier, monospace;
 }
